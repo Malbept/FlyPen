@@ -1,0 +1,8 @@
+name: PenisRider
+version: 1.0
+main: me.vadim.penis.PenisPlugin
+api-version: 1.16
+commands:
+  penis:
+    description: Спавнит писюн
+    usage: /penis
